@@ -33,13 +33,13 @@ I used this opportunity to further practice CSS grids and a mobile first approac
 
 ## This was the design
 
-![](./assets/desktop-design.png)
+![](./design/desktop-design.jpg)
 
 ## This is my solution
 
 [Click here to see the live page](https://arthurpog.github.io/four-card-feature-section/)
 
-![](./assets/my-solution.png)
+![](./design/my-solution.png)
 
 ## <a name="#what-i-learned"></a>What I learned
 

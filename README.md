@@ -39,7 +39,7 @@ I used this opportunity to further practice CSS grids and a mobile first approac
 
 [Click here to see the live page](https://arthurpog.github.io/four-card-feature-section/)
 
-![](./design/my-solution.png)
+![](./design/my_solution.png)
 
 ## <a name="#what-i-learned"></a>What I learned
 

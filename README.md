@@ -28,6 +28,7 @@ My goals for this project were to:
 - [x] Comment my code
 - [x] Use CSS Variables
 - [x] Use CSS grid to create the layout
+- [x] Use CSS flex to understand it a little better
 
 I used this opportunity to further practice CSS grids and a mobile first approach meaning I started coding the CSS by coding the style for the mobile version first then moving up to the desktop design with conditional CSS.
 

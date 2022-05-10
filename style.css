@@ -135,6 +135,8 @@ main {
   margin: 1.87rem 2.13rem 2.13rem;
   display: flex;
   flex-direction: column;
+  flex-grow: 1; /* <--- This is to force this container
+  to stretch the maximum possible height of the div*/
 }
 
 .features-text-container {
@@ -142,8 +144,8 @@ main {
 }
 
 .icons {
-  flex: 1 0 auto; /* <--- This is to force this icon container
-  to stretch vertically to the maximum possible height of the div*/
+  flex-grow: 1; /* <--- This is to force this container
+  to stretch the maximum possible height of the div*/
   display: flex;
   justify-content: right;
   align-items: flex-end;
